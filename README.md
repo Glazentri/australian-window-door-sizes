@@ -2,7 +2,7 @@
 
 **An open, source-linked reference dataset for Australian window and door sizing, estimating, design and BIM workflows.**
 
-Maintained by Adrian Woolley / [WinMatch by Glazentri](https://winquotes.com.au/). The repository is independent of the WinMatch Revit and Archicad tools; anyone can use the data in a spreadsheet, a window schedule, a custom application or a BIM integration.
+Maintained by [WinMatch by Glazentri](https://winquotes.com.au/). The repository is independent of the WinMatch Revit and Archicad tools; anyone can use the data in a spreadsheet, a window schedule, a custom application or a BIM integration.
 
 [![Data snapshot](https://img.shields.io/badge/snapshot-2026--11--26-126A64)](data/snapshot.json)
 [![Records](https://img.shields.io/badge/records-8%2C141-126A64)](data/snapshot.json)
