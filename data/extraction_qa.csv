@@ -1,0 +1,80 @@
+﻿source_id,source_page,product,method,printed_code_words,mapped_records,notes
+brad-qld,4,Sliding window,brad,57,57,Unmapped or ambiguous codes are not inferred.
+brad-qld,5,Double hung window,brad,52,52,Unmapped or ambiguous codes are not inferred.
+brad-qld,6,Awning window,brad,63,63,Unmapped or ambiguous codes are not inferred.
+brad-qld,8,Casement window,brad,35,35,Unmapped or ambiguous codes are not inferred.
+brad-qld,12,Sliding door,brad,20,20,Unmapped or ambiguous codes are not inferred.
+brad-qld,13,Sliding door,brad,20,20,Unmapped or ambiguous codes are not inferred.
+brad-qld,14,Stacking door,brad,6,6,Unmapped or ambiguous codes are not inferred.
+brad-vic,4,Sliding window,brad,65,65,Unmapped or ambiguous codes are not inferred.
+brad-vic,5,Double hung window,brad,52,52,Unmapped or ambiguous codes are not inferred.
+brad-vic,6,Awning window,brad,63,63,Unmapped or ambiguous codes are not inferred.
+brad-vic,8,Casement window,brad,49,49,Unmapped or ambiguous codes are not inferred.
+brad-vic,12,Sliding door,brad,20,20,Unmapped or ambiguous codes are not inferred.
+brad-vic,13,Sliding door,brad,20,20,Unmapped or ambiguous codes are not inferred.
+brad-vic,14,Stacking door,brad,6,6,Unmapped or ambiguous codes are not inferred.
+brad-vic,9,Casement window,brad,20,20,Unmapped or ambiguous codes are not inferred.
+brad-nsw,8,Sliding window,brad,55,55,Unmapped or ambiguous codes are not inferred.
+brad-nsw,9,Sliding window,brad,17,17,Unmapped or ambiguous codes are not inferred.
+brad-nsw,10,Awning window,brad,60,60,Unmapped or ambiguous codes are not inferred.
+brad-nsw,11,Awning window,brad,30,30,Unmapped or ambiguous codes are not inferred.
+brad-nsw,12,Double hung window,brad,52,52,Unmapped or ambiguous codes are not inferred.
+brad-nsw,13,Louvre window,brad,72,72,Unmapped or ambiguous codes are not inferred.
+brad-nsw,14,Fixed window,brad,0,0,Unmapped or ambiguous codes are not inferred.
+brad-nsw,15,Fixed window,brad,31,31,Unmapped or ambiguous codes are not inferred.
+brad-nsw,16,Casement window,brad,35,35,Unmapped or ambiguous codes are not inferred.
+brad-nsw,20,Sliding door,brad,25,25,Unmapped or ambiguous codes are not inferred.
+brad-nsw,21,Stacking door,brad,16,16,Unmapped or ambiguous codes are not inferred.
+brad-nsw,22,Stacking door,brad,8,7,Unmapped or ambiguous codes are not inferred.
+dowell-qld,17,Sliding window,dowell,176,176,Unmapped or ambiguous codes are not inferred.
+dowell-qld,21,Awning window,dowell,176,176,Unmapped or ambiguous codes are not inferred.
+dowell-qld,25,Double hung window,dowell,108,108,Unmapped or ambiguous codes are not inferred.
+dowell-qld,29,Casement window,dowell,63,63,Unmapped or ambiguous codes are not inferred.
+dowell-qld,33,Fixed window,dowell,230,215,Unmapped or ambiguous codes are not inferred.
+dowell-qld,39,Louvre window,dowell,128,128,Unmapped or ambiguous codes are not inferred.
+dowell-qld,45,Sliding door,dowell,22,22,Unmapped or ambiguous codes are not inferred.
+dowell-qld,49,Stacking door,dowell,12,12,Unmapped or ambiguous codes are not inferred.
+dowell-qld,57,Hinged door,dowell,18,18,Unmapped or ambiguous codes are not inferred.
+dowell-qld,63,Bifold door,dowell,58,30,Unmapped or ambiguous codes are not inferred.
+dowell-national,17,Sliding window,dowell,176,176,Unmapped or ambiguous codes are not inferred.
+dowell-national,21,Awning window,dowell,176,176,Unmapped or ambiguous codes are not inferred.
+dowell-national,25,Double hung window,dowell,126,126,Unmapped or ambiguous codes are not inferred.
+dowell-national,29,Casement window,dowell,63,63,Unmapped or ambiguous codes are not inferred.
+dowell-national,33,Fixed window,dowell,230,215,Unmapped or ambiguous codes are not inferred.
+dowell-national,39,Louvre window,dowell,128,128,Unmapped or ambiguous codes are not inferred.
+dowell-national,45,Sliding door,dowell,22,22,Unmapped or ambiguous codes are not inferred.
+dowell-national,49,Stacking door,dowell,12,12,Unmapped or ambiguous codes are not inferred.
+dowell-national,57,Hinged door,dowell,18,18,Unmapped or ambiguous codes are not inferred.
+dowell-national,63,Bifold door,dowell,58,30,Unmapped or ambiguous codes are not inferred.
+wide-slide-window,1,Sliding window,wide,71,71,Unmapped or ambiguous codes are not inferred.
+wide-awning,1,Awning window,wide,80,80,Unmapped or ambiguous codes are not inferred.
+wide-doublehung,1,Double hung window,wide,56,56,Unmapped or ambiguous codes are not inferred.
+wide-slide-door,1,Sliding door,wide,24,24,Unmapped or ambiguous codes are not inferred.
+wide-stack,1,Stacking door,wide,12,12,Unmapped or ambiguous codes are not inferred.
+wide-entry,1,Entry door,wide,0,0,Unmapped or ambiguous codes are not inferred.
+wide-timber-entry,1,Entry frame,wide,0,0,Unmapped or ambiguous codes are not inferred.
+hanlon,4,"{'SF': 'Sliding window', 'SFS': 'Sliding window', 'F': 'Fixed window', 'LEH': 'Hinged door', 'REH': 'Hinged door', 'EHH': 'Hinged door', 'LIH': 'Hinged door', 'RIH': 'Hinged door', 'IHH': 'Hinged door'}",hanlon,98,98,Unmapped or ambiguous codes are not inferred.
+hanlon,5,"{'DD': 'Double hung window', 'DF': 'Double hung window', 'DH': 'Double hung window', 'C': 'Casement window', 'F': 'Fixed window'}",hanlon,101,87,Unmapped or ambiguous codes are not inferred.
+hanlon,6,"{'A': 'Awning window', 'XF': 'Sliding door', 'FX': 'Sliding door', 'FXXF': 'Sliding door', 'XXF': 'Stacking door', 'X': 'Sliding door'}",hanlon,82,82,Unmapped or ambiguous codes are not inferred.
+hanlon,7,{'SD': 'Stacking door'},hanlon,20,20,Unmapped or ambiguous codes are not inferred.
+hanlon,8,{'BF': 'Bifold door'},hanlon,10,0,Unmapped or ambiguous codes are not inferred.
+hanlon,9,"{'AL': 'Louvre window', 'L': 'Louvre window'}",hanlon,28,14,Unmapped or ambiguous codes are not inferred.
+stegbar-standard,5,"{'SW': 'Sliding window', 'DH': 'Double hung window'}",stegbar,190,190,Unmapped or ambiguous codes are not inferred.
+stegbar-standard,6,"{'AW': 'Awning window', 'CW': 'Casement window'}",stegbar,240,240,Unmapped or ambiguous codes are not inferred.
+stegbar-standard,7,"{'FW': 'Fixed window', 'BW': 'Bifold window'}",stegbar,138,138,Unmapped or ambiguous codes are not inferred.
+stegbar-standard,8,"{'BD': 'Bifold door', 'SD': 'Sliding door'}",stegbar,54,54,Unmapped or ambiguous codes are not inferred.
+stegbar-standard,9,"{'ST': 'Stacking door', 'DF': 'Door frame'}",stegbar,63,24,Unmapped or ambiguous codes are not inferred.
+stegbar-standard,10,"{'LU': 'Laundry combination', 'ID': 'Interior door'}",stegbar,12,0,Unmapped or ambiguous codes are not inferred.
+AL26,31,Boutique Fixed No Mullion Awning Windows,Available white-cell colour classification,224,190,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,32,Boutique Fixed No Mullion Awning Windows,Available white-cell colour classification,224,119,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,33,Boutique Fixed One Mullion Awning Windows,Available white-cell colour classification,210,200,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,34,Boutique Fixed One Mullion Awning Windows,Available white-cell colour classification,210,154,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,35,Boutique Fixed Two Mullion Awning Windows,Available white-cell colour classification,196,170,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,36,Boutique Fixed Two Mullion Awning Windows,Available white-cell colour classification,154,136,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,37,Boutique Fixed Three Mullion Awning Windows,Available white-cell colour classification,182,181,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,38,Boutique Fixed Three Mullion Awning Windows,Available white-cell colour classification,168,160,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,39,Boutique Heavy Duty Fixed No Mullion Windows,Available white-cell colour classification,90,26,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+AL26,40,Boutique Heavy Duty Fixed One Mullion Windows,Available white-cell colour classification,42,19,Fixed grid; grey hatch = unavailable. Counts compare total grid cells and retained white cells.
+brad-qld,7,Gas strut window,brad,20,20,Unmapped or ambiguous codes are not inferred.
+brad-vic,7,Gas strut window,brad,20,20,Unmapped or ambiguous codes are not inferred.
+brad-nsw,17,Gas strut window,brad,16,16,Unmapped or ambiguous codes are not inferred.

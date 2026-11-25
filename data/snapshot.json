@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "snapshot_date": "2026-11-26",
+  "standard": 7029,
+  "other_size": 399,
+  "size_total": 7428,
+  "limits": 241,
+  "grids": 126,
+  "options": 189,
+  "manufacturers": 28,
+  "sources": 226,
+  "leads": 157,
+  "total_records": 8141,
+  "size_types": {
+    "standard_size": 7029,
+    "chart_group_size": 78,
+    "corner_wing": 148,
+    "corner_pair": 16,
+    "size_review": 152,
+    "example_size": 5
+  }
+}
